@@ -1,8 +1,10 @@
 # MIARFID-CNB-2019-2020
+
 **CNB project**
+
 **Denis Yura**
 
-*Simple Splicing System*
+**Simple Splicing System**
 
 We did a system with two letters “a” and ”b”. 
 
@@ -30,7 +32,7 @@ This example gives us regular expression
 
 ab( b + ab + aab )*aa 
 
-*Program usage*
+**Program usage**
 
 One have to create a list of initial words: 
 
